@@ -5,8 +5,6 @@ body {
   padding: 20px;
   box-sizing: border-box;
   font-family: Roboto, Helvetica, Arial, serif;
-  background: url(https://source.unsplash.com/1600x900/?technology,macbook);
-  background-size: cover;
 }
 
 header img {
@@ -25,8 +23,6 @@ aside {
   display: block;
   height: 250px;
   width: 250px;
-  background: url(https://source.unsplash.com/1600x900/?coding);
-  background-size: cover;
   overflow: hidden;
   box-shadow: 0 0 100px 10px #fff;
   transition: all ease 0.3s;
